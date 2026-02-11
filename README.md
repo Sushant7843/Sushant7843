@@ -1,8 +1,8 @@
--👋 Hi, I’m @Sushant7843
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-👋 Hi, I’m SUSHANT
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on front end website development 
+- 📫 How to reach me mail: sushantkushwah90@gmail.com
 
 <!---
 Sushant7843/Sushant7843 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
